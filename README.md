@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Full stack web development
 - I am a high school student
 - Have knowledge about data science, machine learning,and some deep learning
-- pursueing Computer science
+- pursueing AI Engineering
