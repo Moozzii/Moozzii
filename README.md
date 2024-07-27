@@ -1,4 +1,3 @@
-[![MasterHead]](https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS/modules/553018203)
 
 <h1 align="center">Hi 👋, I'm MoezRehman</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
