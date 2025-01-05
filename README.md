@@ -1,27 +1,27 @@
 
-<h1 align="center">Hi 👋, I'm MoezRehman</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Moez-Ur-Rehman</h1>
+<h3 align="center">A passionate Engineering student from Pakistan</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moozzii" alt="moozzii" /></a> </p>
 
 - 🔭 I’m currently working on **Low Level Programming**
 
-- 🌱 I’m currently learning **Operating System / Computer Networking**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **AI company**
+- 👯 I’m looking to collaborate on **C++ Projects**
 
-- 🤝 I’m looking for help with **Learning AI**
+- 🤝 I’m looking for help with **Making a compiler**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/moez-rehman-428375295](www.linkedin.com/in/moez-rehman-428375295)
 
-- 💬 Ask me about **Software Engineering**
+- 💬 Ask me about **Engineering and Problem solving**
 
 - 📫 How to reach me **moizoop619@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Moozzii/resume/blob/main/Untitled%20document.pdf](https://github.com/Moozzii/resume/blob/main/Untitled%20document.pdf)
 
-- ⚡ Fun fact **I think I am a bit serious person**
+- ⚡ Fun fact **Mere Toothpaste may namak nahi hai!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
