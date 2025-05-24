@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moozzii" alt="moozzii" /></a> </p>
 
-- 🔭 I’m currently working on **Low Level Programming**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **C++ Projects**
-
-- 🤝 I’m looking for help with **Making a compiler**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/moez-rehman-428375295](www.linkedin.com/in/moez-rehman-428375295)
 
