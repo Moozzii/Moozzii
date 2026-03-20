@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Robotics**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **AI and Robotics Projects**
 
